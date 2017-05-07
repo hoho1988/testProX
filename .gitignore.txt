@@ -3,5 +3,5 @@
 RemoteSystemsTempFiles
 .project
 .classpath
-.settings/
 target/
+README.md
