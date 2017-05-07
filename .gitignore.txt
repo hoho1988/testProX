@@ -1,7 +1,5 @@
 .metadata
 .gitignore
 RemoteSystemsTempFiles
-.project
-.classpath
 target/
 README.md
