@@ -1,0 +1,7 @@
+com\hoho\test\dao\ItestDao.class
+com\hoho\test\dao\TestRepository.class
+com\hoho\test\dao\impl\Test2Dao.class
+com\hoho\test\dao\impl\TestDao.class
+com\hoho\test\controller\Hello.class
+com\hoho\test\bean\Test.class
+com\hoho\test\App.class
